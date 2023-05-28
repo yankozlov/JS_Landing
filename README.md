@@ -1,4 +1,4 @@
-# NodeJS_Landing
+# JS_Landing
 
 Link to Bluene template source: https://html.design/download/digital-agency-html-template/ 
 
