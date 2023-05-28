@@ -133,7 +133,7 @@ p {
 }
 
 a {
-     color: #222222;
+     color: #ffffff;
      text-decoration: none;
      outline: none !important;
 }
@@ -520,8 +520,17 @@ button {
 .footer {
      margin-top: 60px;
      background: #010000;
-     padding-top: 90px;
+     padding-top: 50px;
      text-align: center;
+}
+
+.footer_link a {
+     font-size: 28px;
+     font-weight: bold;
+}
+
+.footer.container.row {
+     align-content: space-between;
 }
 
 .multipurpose {
@@ -579,7 +588,7 @@ button {
 
 .copyright {
      background: #e70139;
-     margin-top: 90px;
+     margin-top: 50px;
 }
 
 .copyright p {
@@ -597,6 +606,5 @@ button {
 .copyright a:hover {
      color: #000;
 }
-
 
 /** end footer **/
