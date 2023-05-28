@@ -1,3 +1,3 @@
 # NodeJS_Landing
 
-Link to Bluene template source: https://www.free-css.com/free-css-templates/page289/bluene 
+Link to Bluene template source: https://html.design/download/digital-agency-html-template/ 
