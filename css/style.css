@@ -446,6 +446,17 @@ button {
      margin-top: 90px;
 }
 
+.solutions ul {
+     padding-left: 20px;
+     padding-top: 8px;
+}
+
+.solutions li {
+     font-size: 18px;
+     color: white;
+     list-style-image: url('../images/list_icon_small.png');
+}
+
 .solutions .titlepage {
      text-align: left;
      padding-bottom: 0;
